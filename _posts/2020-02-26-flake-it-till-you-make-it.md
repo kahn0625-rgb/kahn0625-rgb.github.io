@@ -3,7 +3,7 @@ layout: post
 title: 부산 중장년 1인 가구 비율
 subtitle: 혼자 사는 중년 가구가 늘어난다
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/images.jpg
 share-img: /assets/img/path.jpg
 tags: [books, test]
 author: AHN SANG HYUN

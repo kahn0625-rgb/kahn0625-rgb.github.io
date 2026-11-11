@@ -1,16 +1,21 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 상대적 빈곤이란?
+subtitle: 각자 다른 빈곤하다는 정의
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+빈곤이라는 단어를 들으면 어떤 생각이 드시나요?
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 가난한 상태
+- 불쌍한 사람들
+- 거지
+- 냄세
+- 기타 
 
-What else do you need?
+그러나 빈곤은 단순히 경제적인 곤란에 처한 상황을 설명하는 단어가 아니랍니다.
 
-### My story
+### 빈곤(貧困)이란,
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+최소한의 인간 다운 삶을 유지하는 데 필요한 재물이나 물적 자원이 부족한 상태를 말합니다.
+
+꽤나 범위가 넓죠?
